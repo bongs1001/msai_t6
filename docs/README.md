@@ -6,6 +6,7 @@ This project aims to develop a model that predicts the daily closing price of ov
 
 Develop a machine learning model that predicts the daily closing prices of overseas stock markets with high accuracy.
 Implement the developed prediction model as a web application to provide users with real-time stock price prediction information.
+
 ## Key Features
 
 Stock Ticker Input and Prediction Result Confirmation: Users can input the ticker of an overseas stock of interest and check the opening price and predicted closing price of the stock on the day.
